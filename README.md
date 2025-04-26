@@ -1,8 +1,7 @@
 # Arduino Snake Game – Enhanced Matrix Edition
 
 This project is an **Arduino-powered Snake Game** that runs on a 10x10 NeoPixel LED matrix with MAX7219 displays for score and time.  
-It is a modified version of [this project](https://elektro.turanis.de/html/prj099/index.html),  
-offering an improved gaming experience, new controls, effects, and visual feedback.
+It is a modified version of [this project](https://elektro.turanis.de/html/prj099/index.html), offering an improved gaming experience, new controls, effects, and visual feedback.
 
 ## Features
 
