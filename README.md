@@ -86,7 +86,6 @@ Install via the Arduino Library Manager.
 ## Acknowledgments
 
 - Original concept: [elektro.turanis.de Snake Game](https://elektro.turanis.de/html/prj099/index.html)
-- Heavily modified, extended, and commented by [Your Name or GitHub Username].
 
 ## License
 
